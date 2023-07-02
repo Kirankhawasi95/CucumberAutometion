@@ -26,7 +26,7 @@ import testRunner.FeaturePath;
 	// dryRun=false,
 	//monochrome=true,
 	// tags = "@sanity"	//Scenarios tagged with @sanity,
-	tags="@Smoke or @sanity" //Scenarios tagged with both @sanity and @regression
+	tags="@sanity" //Scenarios tagged with both @sanity and @regression
 	//tags = "@sanity or @regression"	 //Scenarios tagged with either @sanity or @regression
 	//tags = "@sanity and not @regression", //Scenarios tagged with @sanity but not tagged with @regressi
 	
